@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-phone.webp">
-  <img src="assets/hero.webp" width="100%" alt="A sunny meadow moving in the wind. Srinath H: I build the whole product and the small models inside it.">
+  <img src="assets/hero.webp" width="100%" alt="A sunny meadow moving in the wind. Srinath H, full-stack AI engineer. I build AI products end to end, from training the model to shipping the app.">
 </picture>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/srinath-exe"><img src="assets/pill-li.webp" height="42" alt="LinkedIn"></a>
 </p>
 
-I take a product from the first sketch to production, and when it needs a model small enough to run in a browser tab, I train that too. These two are mine, live, and MIT licensed.
+These two are mine: open source, MIT licensed and live. Click a card to try one.
 
 <a href="https://openatc.aeon-labs.site">
 <picture>
