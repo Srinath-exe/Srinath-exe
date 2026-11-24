@@ -4,15 +4,13 @@
 </picture>
 
 <p align="center">
-  <a href="https://openatc.aeon-labs.site"><img src="assets/pill-play.webp" height="42" alt="Play OpenATC live"></a>&nbsp;
-  <a href="https://stratify.aeon-labs.site"><img src="assets/pill-site.webp" height="42" alt="Try Stratify MCP free"></a>&nbsp;
+  <a href="https://openatc.aeon-labs.site"><img src="assets/pill-atc.webp" height="42" alt="OpenATC"></a>&nbsp;
+  <a href="https://stratify.aeon-labs.site"><img src="assets/pill-st.webp" height="42" alt="Stratify MCP"></a>&nbsp;
   <a href="https://huggingface.co/srinath-exe"><img src="assets/pill-hf.webp" height="42" alt="Hugging Face"></a>&nbsp;
   <a href="https://www.linkedin.com/in/srinath-exe"><img src="assets/pill-li.webp" height="42" alt="LinkedIn"></a>
 </p>
 
 I take a product from the first sketch to production, and when it needs a model small enough to run in a browser tab, I train that too. These two are mine, live, and MIT licensed.
-
-### OpenATC
 
 <a href="https://openatc.aeon-labs.site">
 <picture>
@@ -24,8 +22,6 @@ I take a product from the first sketch to production, and when it needs a model 
 Key the mic and talk to the traffic. A speech model I fine-tuned hears you, a 2M model I trained from scratch works out the command, and the pilot reads it back and flies it. No large language model and no GPU at run time.
 
 **[Play](https://openatc.aeon-labs.site)** · **[Code](https://github.com/Srinath-exe/OpenSkyATC)** · **[Speech model](https://huggingface.co/srinath-exe/skycontrol-atc-asr-110m)** · **[Command model](https://huggingface.co/srinath-exe/skycontrol-atc-command-2m)**
-
-### Stratify MCP
 
 <a href="https://stratify.aeon-labs.site">
 <picture>
